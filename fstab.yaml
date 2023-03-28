@@ -2,4 +2,4 @@ mountpoints:
   /:
     url: https://main--helix-test-content-onedrive--adobe.hlx.page/
     type: markup
-    suffix: '.plain.html'
+    #suffix: '.plain.html'
